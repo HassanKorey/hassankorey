@@ -1,33 +1,38 @@
-<div align="center">
-  <h1 align="center">Hi, I'm Hassan Akorede (HassanKorey) 👋</h1>
-  <p align="center">
-    <i>Software Engineer based in <b>Lagos, Nigeria</b>.</i><br/>
-    <i>Specializing in Go, TypeScript, backend development, CLI tools, web applications, and Stellar/Soroban smart contracts.</i><br/>
-    <i>Passionate about building efficient, scalable systems and continuously improving through hands-on projects and problem-solving.</i>
-  </p>
-</div>
+Hi 👋, I'm Hassan Akorede (HassanKorey)
 
-<br/>
+Software Engineer based in Lagos, Nigeria. Specializing in Go, TypeScript, backend development, CLI tools, web applications, and Stellar/Soroban smart contracts. Passionate about building efficient, scalable systems and continuously improving through hands-on projects and problem-solving.
 
-### 🔧 Core Tech Stack
+Languages and Tools:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=39FF14" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=39FF14" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=39FF14" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" alt="Git" />
-  <img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=39FF14" alt="Stellar" />
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
 </p>
 
-<br/>
+### 🌍 Open Source Contributions
 
-### 🚀 Key Projects & Open Source
+- **[geevapp/geev](https://github.com/geevapp/geev)**
+- **[CredenceOrg/Credence-Frontend](https://github.com/CredenceOrg/Credence-Frontend)**
+- **[karagozemin/sub-rosa-drips](https://github.com/karagozemin/sub-rosa-drips)**
+- **[Betta-Pay/BettaPay-Backend](https://github.com/Betta-Pay/BettaPay-Backend)**
+- **[karagozemin/OverSync](https://github.com/karagozemin/OverSync)**
+- **[karagozemin/Fortexa](https://github.com/karagozemin/Fortexa)**
+- **[accesslayerorg/accesslayer-server](https://github.com/accesslayerorg/accesslayer-server)**
+- **[Nexacore-Org/NexaFx-web](https://github.com/Nexacore-Org/NexaFx-web)**
+
+### 🚀 Key Projects
 
 > **[bc-forge](https://github.com/BCPathway/bc-forge)**  
 > *Modular Soroban smart contracts and TypeScript SDK for token minting on the Stellar blockchain.*  
@@ -45,8 +50,6 @@
 > *Collaborative project to build a leadership bridge web platform.*  
 > `HTML` • `JavaScript`
 
-<br/>
-
 ### 📫 Let's Connect
 
 - 🌐 **Portfolio:** [hassankorey.vercel.app](http://hassankorey.vercel.app)
@@ -55,18 +58,11 @@
 
 <br/>
 
-### 🕰️ GitHub Activity
+<!-- stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanKorey&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="HassanKorey" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HassanKorey&show_icons=true&locale=en&theme=vision-friendly-dark" alt="HassanKorey" /></p>
 
-<div align="center">
-  <a href="https://github.com/HassanKorey">
-    <img src="https://github-readme-stats.vercel.app/api?username=HassanKorey&show_icons=true&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&border_color=39FF14&hide_border=false" height="192px" />
-  </a>
-  <a href="https://github.com/HassanKorey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKorey&layout=compact&hide_progress=false&bg_color=000000&title_color=39FF14&text_color=ffffff&border_color=39FF14&hide_border=false" height="192px" />
-  </a>
-</div>
-
-<br/>
+<br clear="both"/>
 
 <p align="center">
   <!-- Note: To enable the snake animation below, you need to set up the github-contribution-grid-snake action in your repository -->
