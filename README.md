@@ -62,7 +62,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=HassanKorey&show_icons=true&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&border_color=39FF14&hide_border=false" height="192px" />
   </a>
   <a href="https://github.com/HassanKorey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKorey&layout=compact&hide_progress=false&bg_color=000000&title_color=39FF14&text_color=ffffff&border_color=39FF14&hide_border=false" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKorey&layout=compact&hide_progress=false&bg_color=000000&title_color=39FF14&text_color=ffffff&border_color=39FF14&hide_border=false&langs_count=10&custom_title=Languages%20used" height="192px" />
   </a>
 </div>
 
