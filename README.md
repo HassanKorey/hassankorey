@@ -25,14 +25,6 @@
 
 ### 🚀 A few Public Projects & Open Source
 
-> **[bc-forge](https://github.com/BCPathway/bc-forge)**  
-> *Modular Soroban smart contracts and TypeScript SDK for token minting on the Stellar blockchain.*  
-> `TypeScript` • `Soroban` • `Stellar`
-
-> **[ascii-art suite](https://github.com/HassanKorey/ascii-art)**  
-> *A collection of CLI tools (`ascii-art`, `ascii-fs`, `ascii-Highlighted`) that generate ASCII representations of strings in various styles and colors.*  
-> `Go`
-
 > **[Knowflow-AI](https://github.com/HassanKorey/KnowFlow-AI)**  
 > *An enterprise knowledge assistant.*  
 > `Typescript` • `NodeJS`
@@ -40,6 +32,14 @@
 > **[Leadership-bridge](https://github.com/callMe-gDan001/Leadership-bridge)**  
 > *Collaborative project to build a leadership bridge web platform.*  
 > `HTML` • `JavaScript`
+
+> **[bc-forge](https://github.com/BCPathway/bc-forge)**  
+> *Modular Soroban smart contracts and TypeScript SDK for token minting on the Stellar blockchain.*  
+> `TypeScript` • `Soroban` • `Stellar`
+
+> **[ascii-art suite](https://github.com/HassanKorey/ascii-art)**  
+> *A collection of CLI tools (`ascii-art`, `ascii-fs`, `ascii-Highlighted`) that generate ASCII representations of strings in various styles and colors.*  
+> `Go`
 
 <br/>
 
@@ -52,17 +52,6 @@
 <br/>
 
 ### 🕰️ GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/HassanKorey">
-    <img src="https://github-readme-stats.vercel.app/api?username=HassanKorey&show_icons=true&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&border_color=39FF14&hide_border=false" height="192px" />
-  </a>
-  <a href="https://github.com/HassanKorey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKorey&layout=compact&hide_progress=false&bg_color=000000&title_color=39FF14&text_color=ffffff&border_color=39FF14&hide_border=false&langs_count=10&custom_title=Languages%20used" height="192px" />
-  </a>
-</div>
-
-<br/>
 
 <p align="center">
   <!-- Note: To enable the snake animation below, you need to set up the github-contribution-grid-snake action in your repository -->
