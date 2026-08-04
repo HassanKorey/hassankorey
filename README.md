@@ -1,9 +1,8 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Hassan Akorede (HassanKorey) 👋</h1>
+  <h1 align="center">Hi, I'm Hassan Akorede, EDUN (HassanKorey) 👋</h1>
   <p align="center">
-    <i>Software Engineer based in <b>Lagos, Nigeria</b>.</i><br/>
-    <i>Specializing in Go, TypeScript, backend development, CLI tools, web applications, and Stellar/Soroban smart contracts.</i><br/>
-    <i>Passionate about building efficient, scalable systems and continuously improving through hands-on projects and problem-solving.</i>
+    <i> AI & Software Engineering <b> - Lagos, Nigeria</b>.</i><br/>
+    <i>I am focused on building efficient, scalable systems and continuously improving through hands-on projects and problem-solving.</i>
   </p>
 </div>
 
