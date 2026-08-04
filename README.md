@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm Hassan Akorede, EDUN (HassanKorey) 👋</h1>
   <p align="center">
-    <i> AI & Software Engineering <b> - Lagos, Nigeria</b>.</i><br/>
+    <i> AI & Software Engineering <b> 
     <i>I am focused on building efficient, scalable systems and continuously improving through hands-on projects and problem-solving.</i>
   </p>
 </div>
