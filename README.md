@@ -27,7 +27,7 @@
 
 <br/>
 
-### 🚀 Key Projects & Open Source
+### 🚀 A few Public Projects & Open Source
 
 > **[bc-forge](https://github.com/BCPathway/bc-forge)**  
 > *Modular Soroban smart contracts and TypeScript SDK for token minting on the Stellar blockchain.*  
@@ -37,9 +37,9 @@
 > *A collection of CLI tools (`ascii-art`, `ascii-fs`, `ascii-Highlighted`) that generate ASCII representations of strings in various styles and colors.*  
 > `Go`
 
-> **[edunXpress](https://github.com/HassanKorey/edunXpress)**  
-> *A responsive landing page designed for a logistics firm.*  
-> `HTML` • `CSS`
+> **[Knowflow-AI](https://github.com/HassanKorey/KnowFlow-AI)**  
+> *An enterprise knowledge assistant.*  
+> `Typescript` • `NodeJS`
 
 > **[Leadership-bridge](https://github.com/callMe-gDan001/Leadership-bridge)**  
 > *Collaborative project to build a leadership bridge web platform.*  
